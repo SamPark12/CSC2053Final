@@ -1,4 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+<<<<<<< HEAD
 /* This is the universal styling for this webpage */
 h1{      /* This stypes the title in header1 */
     color: red;
@@ -49,3 +50,5 @@ button {
   * {
     font-family: Arial, Helvetica, sans-serif;
   }
+=======
+>>>>>>> a5991c0bb54554ade97cdec0c45dded66ca38cc5

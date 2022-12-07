@@ -18,7 +18,10 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
+<<<<<<< HEAD
     "angular-in-memory-web-api": "^0.15.0",
+=======
+>>>>>>> a5991c0bb54554ade97cdec0c45dded66ca38cc5
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
